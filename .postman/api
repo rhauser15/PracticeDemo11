@@ -5,11 +5,13 @@ id = 3899a8ed-ea30-4e57-b656-f84e6a2f290d
 
 [relations.collections]
 rootDirectory = postman/collections
+files[] = {"id":"23819794-d3febfb5-165d-45dc-b188-f36618e18a64","path":"Transamerica User API.json","metaData":{}}
 
 [relations.collections.metaData]
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
+files[] = {"path":"TransAmericaSchema.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
